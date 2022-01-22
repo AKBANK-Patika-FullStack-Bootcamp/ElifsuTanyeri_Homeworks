@@ -13,10 +13,12 @@ If you register successfully, you can login to your account within the same UI. 
 &nbsp;
 ![Token](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/2LoginSuccess.PNG)
 \
-&nbsp;
+\
+
 After seeing the above message, you are ready to go on!
 \
-&nbsp;
+\
+
 ![Verification](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/3TokenSuccess.PNG)
 \
 &nbsp;
