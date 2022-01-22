@@ -29,6 +29,9 @@ After seeing the above message, you are ready to go on!
 \
 &nbsp;
 Oh, by the way, your password will be stored in the database **cyrpted**, so don't worry :)
+\
+\
+&nbsp;
 ![CryptedPassword](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/5CryptedSQL.PNG)
 \
 \
