@@ -10,7 +10,6 @@ You can register through Swagger:
 ![SwaggerUIInıtialization](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/1normalstate.PNG)
 \
 \
-\
 &nbsp;
 If you register successfully, you can login to your account within the same UI. Successfull login means you will have a valid token for a quite good period of time, so that you don't have to login again and again. After one last step, you are ready to access to TAL database. Please copy and paste your verified token code to Swagger's Authorize section, don't forget to add "bearer" in the beginning!
 \
@@ -20,8 +19,6 @@ If you register successfully, you can login to your account within the same UI. 
 \
 \
 &nbsp;
-After seeing the above message, you are ready to go on!
-
 After seeing the above message, you are ready to go on!
 \
 \
