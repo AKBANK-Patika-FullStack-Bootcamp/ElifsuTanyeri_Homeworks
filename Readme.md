@@ -21,6 +21,7 @@ If you register successfully, you can login to your account within the same UI. 
 &nbsp;
 ![Token](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/2LoginSuccess.PNG)
 \
+<<<<<<< HEAD
  \
  \
 &nbsp;
@@ -29,6 +30,14 @@ After seeing the above message, you are ready to go on!
  \
  \
 &nbsp;
+=======
+\
+
+After seeing the above message, you are ready to go on!
+\
+\
+
+>>>>>>> c19c8166accfe2ed588d050b496c88721c096ff8
 ![Verification](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week5_AuthToken%26Paging/Screenshots/3TokenSuccess.PNG)
 \
  \
