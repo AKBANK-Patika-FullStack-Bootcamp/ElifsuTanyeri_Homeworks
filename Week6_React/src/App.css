@@ -1,0 +1,18 @@
+.deneme {
+  box-sizing: border-box;
+  width: 26rem;
+  height: 20rem;
+  border: 2px solid black;
+  border-radius: 6px;
+  margin: auto;
+}
+
+.btn {
+  margin: auto;
+}
+
+.subt {
+  margin: 1em;
+  padding: 10px;
+  font-size: 36px;
+}
