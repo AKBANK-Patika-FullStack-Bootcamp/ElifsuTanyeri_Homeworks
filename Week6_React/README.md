@@ -6,8 +6,8 @@
 
 ##Part 2
 
-[img]()
+[img](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week6_React/Part2/girlspower.PNG)
 
 ##Part 3
 
-[img]()
+[img](https://github.com/AKBANK-Patika-FullStack-Bootcamp/ElifsuTanyeri_Homeworks/blob/master/Week6_React/Part3/reverse.PNG)
